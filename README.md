@@ -23,6 +23,6 @@ Built with **HTML**, **CSS**, and **JavaScript**, it provides an interactive and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/maze-tilt-game.git
+   git clone https://github.com/arafatbcse/maze-solver.git
    cd maze-tilt-game
    ```
